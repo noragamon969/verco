@@ -1,0 +1,4 @@
+baseURL = "https://sheetmusicvery.vercel.app"
+languageCode = "en-us"
+title = "Sheet Music Download"
+theme = "tale"
